@@ -1,6 +1,10 @@
 # I-JEPA Demonstration
 
 This project provides an interactive demonstration of I-JEPA (Image-based Joint-Embedding Predictive Architecture), a PhD-level Artificial Machine Intelligence (AMI) that showcases how I-JEPA works for learning visual representations from image data.
+![IJEPA EduDetails](https://github.com/user-attachments/assets/2cc5cfe7-01be-4f2b-97f0-53025d60422c)
+![IJEPA TechDetails](https://github.com/user-attachments/assets/96595249-4a03-4191-8576-1b125e36da56)
+![IJEPA Synthetic Image Gen](https://github.com/user-attachments/assets/d76d5f9a-2545-4904-b3e8-77656ad087f1)
+![IJEPA Sample Gen](https://github.com/user-attachments/assets/40be67cb-f0e6-4c27-81bc-a26a6608eb65)
 
 ## Overview
 
